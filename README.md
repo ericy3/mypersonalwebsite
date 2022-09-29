@@ -1,2 +1,1 @@
-# project1-starter
-https://fullstack-decal-fa22.github.io/project1-ericy3/
+my personal in progress website, uses CSS and HTML so far
